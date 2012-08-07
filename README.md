@@ -3,30 +3,31 @@ Keywords
 
 Action:
 
-- Bevaka
-- Visa
+- Watch
+- Show
 
-Finders/Antal
+Finders & counts
 
 - 5
-- senaste
-- alla
+- latest
+- all
 
-Typ
+Kind
 
-ADD EXAMPLES
+- any kind of data that is representated in your system
+- user
+- subscriber
+- payments
+- customer
 
 Where
 
 - Datum ranges
-- Innehåller
+- Contains
 
 Exempel
 
 ADD EXAMPELS
 
 
-**Senaste händelser:**
-3 senaste sorterat på VER ID.
-
-"Kategorier" genom att skriva [KATEGORI]:[TITEL] i titelfältet
+"Categories" by writing [CATEGORY]:[TITLE] 
